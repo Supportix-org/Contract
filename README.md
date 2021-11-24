@@ -10,9 +10,9 @@ Used for governance votes to determine how network resources are allocated
 
 SUPX Protocol launched its mainnet on Nov-20-2021  with 100,000,000,000 SUPX tokens created at genesis. Supportix Token (SUPX) is an ERC20 token on Binance Smart Chain.
 
-# Contact: 0xc0700f7565d795f8b0a64e908e0e8c4ba9c4acba
+Contact: 0xc0700f7565d795f8b0a64e908e0e8c4ba9c4acba
 
-# Total Supply: 100.000.000.000 SUPX
+Total Supply: 100.000.000.000 SUPX
 
 Tokens for Public Sale: 45%
 Tokens for Private Sale: 25%
