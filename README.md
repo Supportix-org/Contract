@@ -1,7 +1,6 @@
 # Contract
 Supportix (SUPX) Smart Contract Token
-## SUPX is BEP20 utility token that is used for:
-
+SUPX is BEP20 utility token that is used for:
 Paying fees for Supportix`s Services
 Used for governance votes to determine how network resources are allocated
 
