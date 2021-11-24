@@ -31,7 +31,7 @@ Total Supply: 100.000.000.000 SUPX
 
 ### Where Can I Buy SUPX Protocol (SUPX)?
 
-SUPX is available for trading on pancakeswap.finance at the moment or you could swap it at dex.supportix.org
+SUPX is available for trading on https://pancakeswap.finance at the moment or you could swap it at https://dex.supportix.org
 
 ### About Supoprtix.org
 
