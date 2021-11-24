@@ -1,6 +1,6 @@
 # Contract
 Supportix (SUPX) Smart Contract Token
-## SUPX is ERC20 utility token that is used for:
+## SUPX is BEP20 utility token that is used for:
 
 Paying fees for Supportix`s Services
 Used for governance votes to determine how network resources are allocated
@@ -8,7 +8,7 @@ Used for governance votes to determine how network resources are allocated
 
 ## How Many SUPX Coins Are There in Circulation?
 
-SUPX Protocol launched its mainnet on Nov-20-2021  with 100,000,000,000 SUPX tokens created at genesis. Supportix Token (SUPX) is an ERC20 token on Binance Smart Chain.
+SUPX Protocol launched its mainnet on Nov-20-2021  with 100,000,000,000 SUPX tokens created at genesis. Supportix Token (SUPX) is an BEP-20 token on Binance Smart Chain.
 
 Contact: 0xc0700f7565d795f8b0a64e908e0e8c4ba9c4acba
 
