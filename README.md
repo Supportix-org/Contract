@@ -13,12 +13,12 @@ Contact: 0xc0700f7565d795f8b0a64e908e0e8c4ba9c4acba
 
 Total Supply: 100.000.000.000 SUPX
 
-Tokens for Public Sale: 45%
-Tokens for Private Sale: 25%
-Team & Founder: 12%
-Reserve Fund: 8%
-Bounty & Events: 6%
-Advisors & Partners: 4%
+- Tokens for Public Sale: 45%
+- Tokens for Private Sale: 25%
+- Team & Founder: 12%
+- Reserve Fund: 8%
+- Bounty & Events: 6%
+- Advisors & Partners: 4%
 
 
 ### SUPX tools include: 
